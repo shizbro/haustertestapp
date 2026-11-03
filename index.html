@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>HAUSTER</title>
+  <meta name="theme-color" content="#ffffff">
+  <link rel="icon" href="assets/brand/logo.png">
+  <script src="https://telegram.org/js/telegram-web-app.js"></script>
+  <link rel="stylesheet" href="src/styles/tokens.css">
+  <link rel="stylesheet" href="src/styles/app.css">
+</head>
+<body>
+  <div class="app">
+    <header class="topbar">
+      <a class="logo" href="#/catalog"><img src="assets/brand/logo.png" alt="Hauster, каталог" width="79" height="30"></a>
+      <a class="cart-link" href="#/cart" aria-label="Корзина">
+        <svg viewBox="0 0 24 24" width="26" height="26" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M3 4h2l2.4 11.2a1.5 1.5 0 0 0 1.5 1.2h8.6a1.5 1.5 0 0 0 1.5-1.1L21 8H6.2"/><circle cx="9.5" cy="20" r="1.3" fill="currentColor"/><circle cx="17.5" cy="20" r="1.3" fill="currentColor"/></svg>
+        <span class="badge" id="cart-badge" hidden>0</span>
+      </a>
+    </header>
+    <main id="view" tabindex="-1"></main>
+  </div>
+  <script src="src/app.js"></script>
+</body>
+</html>

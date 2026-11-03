@@ -1,0 +1,7 @@
+[
+  { "id": "VT.218.N.04", "name": "Кран шар. BASE, рукоятка бабочка 1/2\" вн.-нар.", "category": "Шаровые краны", "unit": "шт", "price": 1490, "stock": 24, "image": "assets/products/VT.218.N.04.jpg" },
+  { "id": "VT.227.N.04", "name": "Кран шар. BASE с полусгоном 1/2\" вн.-нар.", "category": "Шаровые краны", "unit": "шт", "price": 1760, "stock": 10, "image": "assets/products/VT.227.N.04.jpg" },
+  { "id": "VT.227.N.05", "name": "Кран шар. BASE с полусгоном 3/4\" вн.-нар.", "category": "Шаровые краны", "unit": "шт", "price": 2815, "stock": 10, "image": "assets/products/VT.227.N.05.jpg" },
+  { "id": "VTm.231.N.202020", "name": "Тройник пресс 20", "category": "Фитинги", "unit": "шт", "price": 1810, "stock": 10, "image": "assets/products/VTm.231.N.202020.jpg" },
+  { "id": "VTm.253.N.001604", "name": "Угольник пресс с переходом на нар. р. 16х1/2\"", "category": "Фитинги", "unit": "шт", "price": 850, "stock": 10, "image": "assets/products/VTm.253.N.001604.jpg" }
+]
